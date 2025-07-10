@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Signaler une anomalie sur le portail Annuaire Santé
 title: ''
 labels: bug
 assignees: zilliw
@@ -8,12 +8,9 @@ assignees: zilliw
 ---
 
 # Contexte métier
--------------------------
 
 
 # Description du problème
--------------------------
 
 
 # Interfaces concernées
--------------------------
