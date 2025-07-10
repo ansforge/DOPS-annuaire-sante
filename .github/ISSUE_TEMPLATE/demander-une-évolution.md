@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggérer une amélioration sur le projet
+name: Demander une évolution
+about: Vous souhaitez avoir une nouvelle fonctionnalité ?
 title: "[FEAT]"
 labels: enhancement
 assignees: zilliw

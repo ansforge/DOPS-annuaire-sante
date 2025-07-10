@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Signaler une anomalie sur le portail Annuaire Santé
+name: Signaler une anomalie
+about: Signaler une anomalie détectée sur le portail Annuaire Santé
 title: ''
 labels: bug
 assignees: zilliw
