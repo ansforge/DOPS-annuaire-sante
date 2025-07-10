@@ -7,10 +7,13 @@ assignees: zilliw
 
 ---
 
-**Contexte métier**
+# Contexte métier
+-------------------------
 
 
-**Description du problème**
+# Description du problème
+-------------------------
 
 
-**Interfaces concernées**
+# Interfaces concernées
+-------------------------
